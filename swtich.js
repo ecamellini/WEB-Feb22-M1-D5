@@ -1,3 +1,5 @@
 console.log("------------------SWITCH STATEMENT---------------")
 
-// We are going to see ho the switch statement works
+let language = "IT"
+
+// I want to print a message based on the user language
